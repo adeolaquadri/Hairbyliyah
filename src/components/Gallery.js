@@ -4,7 +4,7 @@ const images = [
   '/images/16464519-5C6D-41F5-9157-3BC41366E5EF.jpeg',
   '/images/24CA3816-6DFC-401A-A141-74D070157B67.jpeg',
   '/images/47C9B0AE-6762-4AA8-9818-6A1450041871.jpeg',
-  '/images/style4.jpg',
+  '/images/5E68D04B-B24F-4F24-B911-CB169AEE3AAD.jpeg',
   '/images/style5.jpg',
   '/images/style6.jpg',
 ];
