@@ -1,7 +1,7 @@
 import React from 'react';
 
 const images = [
-  '/images/style1.jpg',
+  '/images/16464519-5C6D-41F5-9157-3BC41366E5EF.jpeg',
   '/images/style2.jpg',
   '/images/style3.jpg',
   '/images/style4.jpg',
