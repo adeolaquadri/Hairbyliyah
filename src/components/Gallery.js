@@ -2,7 +2,7 @@ import React from 'react';
 
 const images = [
   '/images/16464519-5C6D-41F5-9157-3BC41366E5EF.jpeg',
-  '/images/style2.jpg',
+  '/images/24CA3816-6DFC-401A-A141-74D070157B67.jpeg',
   '/images/style3.jpg',
   '/images/style4.jpg',
   '/images/style5.jpg',
