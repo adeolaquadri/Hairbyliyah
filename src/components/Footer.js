@@ -6,7 +6,7 @@ const Footer = () => {
         <p>&copy; {new Date().getFullYear()} Liyah's Beauty. All rights reserved.</p>
         <div className="mt-4 space-x-4">
           <a href="https://www.instagram.com/hairbyliyah01?igsh=YTRocHRiMGRyZHRk" className="hover:underline">Instagram</a>
-          <a href="https://www.facebook.com/" className="hover:underline">Facebook</a>
+          <a href="https://www.facebook.com/share/15GmEk377Y/?mibextid=wwXIfr" className="hover:underline">Facebook</a>
           <a href="https://www.tiktok.com/@__liyah05" className="hover:underline">TikTok</a>
           <a href="#contact" className="hover:underline">Contact Us</a>
         </div>
