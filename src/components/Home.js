@@ -6,6 +6,7 @@ import Service from "./Service";
 import Footer from "./Footer";
 import Testimonial from "./Testimonial";
 import BookingForm from "./Contact";
+import Gallery from "./Gallery";
 
 const Home = ()=>{
    return(
@@ -14,6 +15,7 @@ const Home = ()=>{
      <Welcome/>
      <About />
      <Service />
+     <Gallery />
      <Testimonial />
      <BookingForm />
      <Footer />
