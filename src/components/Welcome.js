@@ -11,7 +11,7 @@ const Welcome = () => {
     </p>
     <button
      className="mt-6 bg-rose-500 hover:bg-rose-600 text-white font-semibold py-3 px-6 rounded-xl shadow-lg">
-      <a href="#contact">Book Appointment</a>
+      <a href="#contact" className="hover:text-white">Book Appointment</a>
     </button>
   </div>
 </section>
