@@ -7,9 +7,9 @@ const mediaItems = [
   { type: 'image', src: '/images/5E68D04B-B24F-4F24-B911-CB169AEE3AAD.jpeg', alt: 'Hair Stylng'},
   { type: 'image', src: '/images/A58C716B-EB72-4F33-8439-9C6D99BD698D.jpeg', alt: 'Hair Stylng'},
   { type: 'image', src: '/images/B3D9C015-786E-4C6C-BD88-C94B10F7F9A4.jpeg', alt: 'Hair Stylng'},
-  { type: 'video', src: '/images/IMG.6093.MOV'},
-  { type: 'video', src: '/images/IMG.6094.MOV'},
-  { type: 'video', src: '/images/IMG.6095.MOV'},
+  { type: 'video', src: '/images/IMG.6093.mp4'},
+  { type: 'video', src: '/images/IMG.6094.mp4'},
+  { type: 'video', src: '/images/IMG.6095.mp4'},
 ];
 
 const Gallery = () => {
@@ -36,7 +36,7 @@ const Gallery = () => {
                 preload="metadata"
                 onClick={() => setSelectedMedia(item)}
               >
-                <source src={item.src} type="video/mov" />
+                <source src={item.src} type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             )}
@@ -67,7 +67,7 @@ const Gallery = () => {
                 controls
                 className="w-full rounded-lg"
               >
-                <source src={selectedMedia.src} type="video/mov" />
+                <source src={selectedMedia.src} type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             )}
