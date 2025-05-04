@@ -7,9 +7,9 @@ const mediaItems = [
   { type: 'image', src: '/images/5E68D04B-B24F-4F24-B911-CB169AEE3AAD.jpeg', alt: 'Hair Stylng'},
   { type: 'image', src: '/images/A58C716B-EB72-4F33-8439-9C6D99BD698D.jpeg', alt: 'Hair Stylng'},
   { type: 'image', src: '/images/B3D9C015-786E-4C6C-BD88-C94B10F7F9A4.jpeg', alt: 'Hair Stylng'},
-  { type: 'video', src: '/images/IMG.6093.mp4'},
-  { type: 'video', src: '/images/IMG.6094.mp4'},
-  { type: 'video', src: '/images/IMG.6095.mp4'},
+  { type: 'video', src: '/images/IMG_6093.mp4'},
+  { type: 'video', src: '/images/IMG_6094.mp4'},
+  { type: 'video', src: '/images/IMG_6095.mp4'},
 ];
 
 const Gallery = () => {
